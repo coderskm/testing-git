@@ -1,2 +1,2 @@
 console.log("first-code");
-console.log("check me");
+console.log("check me first");
